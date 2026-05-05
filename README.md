@@ -16,8 +16,12 @@ Se recomienda imprimir en PLA.
 Contiene el modelo de la tapa protectora de la PCB para evitar que se moje en caso de eventos de lluvia intensos.
 Se recomienda imprimir en PLA.
 
-## soporte\_comp.stl
-Contiene el modelo del soporte del abrigo.
+## soporte\_circ.stl
+Contiene el modelo de la parte central del soporte del abrigo.
+Se recomienda imprimir en ASA.
+
+## soporte\_mensula.stl
+Contiene el modelo de la ménsula para el soporte, se debe unir mediante una pija a la pieza soporte_\circ.stl
 Se recomienda imprimir en ASA.
 
 ## tapa\_inf.stl
